@@ -1,0 +1,33 @@
+{
+	"name": "plasticus",
+	"displayName": "Plasticus",
+	"version": "1.0.0",
+	"private": true,
+	"description": "A simple theme",
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://gitee.com/LocusMax/Vtheme"
+	},
+	"author": "will",
+	"publisher": "will",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Plasticus",
+				"uiTheme": "vs-dark",
+				"path": "./themes/main.json"
+			}
+		]
+	},
+	"engines": {
+		"vscode": "^1.45.0"
+	},
+	"icon": "images/icon.png",
+	"plasticus": {
+		"title": "VSCode",
+		"appLink": "https://code.visualstudio.com/"
+	}
+}
