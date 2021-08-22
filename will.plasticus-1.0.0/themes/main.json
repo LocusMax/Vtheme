@@ -130,6 +130,7 @@
     "sideBar.background": "#181A1F",
     "sideBar.border": "#0D1117",
     "sideBar.foreground": "#C6CCD7",
+    "sideBarSectionHeader.border": "#0D1117",
     "sideBarSectionHeader.background": "#21252B",
     "statusBar.background": "#21252B",
     "statusBar.border": "#0D1117",
