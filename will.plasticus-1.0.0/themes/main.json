@@ -267,6 +267,7 @@
     }
   ],
   "semanticTokenColors": {
+    "generic": "#A9B2C3",
     "macro": "#B57EDC",
     "type": "#E5C07B",
     "struct": "#E5C07B",
