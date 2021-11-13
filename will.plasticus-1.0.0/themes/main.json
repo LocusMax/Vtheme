@@ -140,7 +140,7 @@
     "statusBar.debuggingForeground": "#0D1117",
     "statusBar.foreground": "#A9B2C3",
     "statusBar.noFolderBackground": "#181A1F",
-    "statusBarItem.hoverBackground": "#181A1F",
+    "statusBarItem.hoverBackground": "#0000006F",
     "tab.activeBackground": "#21252B",
     "tab.activeBorderTop": "#1085FF",
     "tab.activeForeground": "#C6CCD7",
