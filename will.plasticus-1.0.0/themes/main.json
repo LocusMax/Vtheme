@@ -271,8 +271,8 @@
     "macro": "#B57EDC",
     "type": "#E5C07B",
     "struct": "#E5C07B",
-    "interface": "#D19A66",
-    "constParameter": "#56B6C2"
+    "derive": "#D19A66",
+    "interface": "#D19A66"
   },
   "semanticHighlighting": true
 }
