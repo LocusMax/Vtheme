@@ -43,6 +43,15 @@
     "editor.wordHighlightStrongBorder": "#1085FF",
     "editorBracketMatch.background": "#1085FF3F",
     "editorBracketMatch.border": "#00000000",
+
+    "editorBracketHighlight.foreground1": "#B48EAD",
+    "editorBracketHighlight.foreground2": "#88C0D0",
+    "editorBracketHighlight.foreground3": "#A3BE8C",
+    "editorBracketHighlight.foreground4": "#EBCB8B",
+    "editorBracketHighlight.foreground5": "#D08770",
+    "editorBracketHighlight.foreground6": "#BF616A",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#D74E42",
+
     "editorCursor.foreground": "#A9B2C3",
     "editorError.foreground": "#D74E42",
     "editorGroup.border": "#0D1117",
