@@ -44,12 +44,12 @@
     "editorBracketMatch.background": "#1085FF3F",
     "editorBracketMatch.border": "#00000000",
 
-    "editorBracketHighlight.foreground1": "#B48EAD",
-    "editorBracketHighlight.foreground2": "#88C0D0",
-    "editorBracketHighlight.foreground3": "#A3BE8C",
-    "editorBracketHighlight.foreground4": "#EBCB8B",
-    "editorBracketHighlight.foreground5": "#D08770",
-    "editorBracketHighlight.foreground6": "#BF616A",
+    "editorBracketHighlight.foreground1": "#A3829F",
+    "editorBracketHighlight.foreground2": "#7AACBB",
+    "editorBracketHighlight.foreground3": "#92AA80",
+    "editorBracketHighlight.foreground4": "#D3B881",
+    "editorBracketHighlight.foreground5": "#B97B68",
+    "editorBracketHighlight.foreground6": "#AA5962",
     "editorBracketHighlight.unexpectedBracket.foreground": "#D74E42",
 
     "editorCursor.foreground": "#A9B2C3",
