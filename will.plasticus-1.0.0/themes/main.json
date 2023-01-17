@@ -211,7 +211,7 @@
       }
     },
     {
-      "scope": ["constant", "support.constant"],
+      "scope": ["constant", "support.constant", "variable.other.constant"],
       "settings": {
         "foreground": "#56B6C2"
       }
